@@ -5,7 +5,7 @@
 The solution can be built as so:
 
 ```
-docker build . -t schedule -f .\Schedule.Api\Dockerfile
+docker build . -t schedule -f .\Planday.Schedule.Api\Dockerfile
 ```
 
 Run the solution like this:
