@@ -37,12 +37,24 @@ Endpoint: `POST /Shift`
 
 Since a shift must be created without an Employee this endpoint takes a `CreateShift` object as input.
 
+Example
+
+![image2.png](image2.png)
+
 ## Task 3: Assign a shift to an employee
 
 Endpoint: `PATCH /Shift/{id}/employee/{employeeId}/assign`
+
+If successful only status `200` is returned.
 
 ## Task 4: Create an API client to fetch the employee information
 
 Endpoint: `GET Shift/{id}`
 
 Extended `Task 1` with additional logic to call the employee API and also includes the employee email.
+
+When running on your local machine add the key `PlanDayAuthToken` and value `[the_actual_password]` as an environment variable.
+
+Example
+
+![image3.png](image3.png)
