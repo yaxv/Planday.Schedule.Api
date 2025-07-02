@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planday.Schedule.Api", "Planday.Schedule.Api\Planday.Schedule.Api.csproj", "{93730D8E-29C3-43EC-981C-AE0270DCD78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planday.Schedule", "Planday.Schedule\Planday.Schedule.csproj", "{3338A09F-BAAD-4CC5-86EF-FA13DAF2458F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planday.Schedule.Infrastructure", "Planday.Schedule.Infrastructure\Planday.Schedule.Infrastructure.csproj", "{55B3AB9E-33D3-4404-BC61-0DD805A8169F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planday.Schedule.Infrastructure.Tests", "Planday.Schedule.Infrastructure.Tests\Planday.Schedule.Infrastructure.Tests.csproj", "{01BFA8F5-61F8-4D85-A1B6-F1A114B082BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Schedule.Tests", "PlanDay.Schedule.Tests\PlanDay.Schedule.Tests.csproj", "{038D0219-AF68-4618-BDB7-9B1F93C964B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Schedule.Application", "PlanDay.Schedule.Application\PlanDay.Schedule.Application.csproj", "{EF77B206-4F99-43FB-BBE6-8C4618BDCDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93730D8E-29C3-43EC-981C-AE0270DCD78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93730D8E-29C3-43EC-981C-AE0270DCD78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93730D8E-29C3-43EC-981C-AE0270DCD78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93730D8E-29C3-43EC-981C-AE0270DCD78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3338A09F-BAAD-4CC5-86EF-FA13DAF2458F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3338A09F-BAAD-4CC5-86EF-FA13DAF2458F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3338A09F-BAAD-4CC5-86EF-FA13DAF2458F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3338A09F-BAAD-4CC5-86EF-FA13DAF2458F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B3AB9E-33D3-4404-BC61-0DD805A8169F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B3AB9E-33D3-4404-BC61-0DD805A8169F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B3AB9E-33D3-4404-BC61-0DD805A8169F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B3AB9E-33D3-4404-BC61-0DD805A8169F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BFA8F5-61F8-4D85-A1B6-F1A114B082BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BFA8F5-61F8-4D85-A1B6-F1A114B082BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BFA8F5-61F8-4D85-A1B6-F1A114B082BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BFA8F5-61F8-4D85-A1B6-F1A114B082BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038D0219-AF68-4618-BDB7-9B1F93C964B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038D0219-AF68-4618-BDB7-9B1F93C964B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038D0219-AF68-4618-BDB7-9B1F93C964B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038D0219-AF68-4618-BDB7-9B1F93C964B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF77B206-4F99-43FB-BBE6-8C4618BDCDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF77B206-4F99-43FB-BBE6-8C4618BDCDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF77B206-4F99-43FB-BBE6-8C4618BDCDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF77B206-4F99-43FB-BBE6-8C4618BDCDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E1FB0F-DB8A-456B-9444-B10F3C1D203B}
+	EndGlobalSection
+EndGlobal

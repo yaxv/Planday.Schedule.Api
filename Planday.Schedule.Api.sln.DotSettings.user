@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a89ec78_002D928a_002D407a_002D89f3_002D82799612816c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetShiftById_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::038D0219-AF68-4618-BDB7-9B1F93C964B4::net9.0::PlanDay.Schedule.Tests.UseCases.GetShiftServiceTests.GetShiftById_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::038D0219-AF68-4618-BDB7-9B1F93C964B4::net9.0::PlanDay.Schedule.Tests.UseCases.GetShiftServiceTests.GetShiftById_EmployeeIdIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::01BFA8F5-61F8-4D85-A1B6-F1A114B082BE::net9.0::Planday.Schedule.Infrastructure.Tests.Providers.PlandayEmployeeProviderTests.GetEmployeeAsync_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::01BFA8F5-61F8-4D85-A1B6-F1A114B082BE::net9.0::Planday.Schedule.Infrastructure.Tests.Queries.GetShiftQueryTests.GetShiftQueryAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::01BFA8F5-61F8-4D85-A1B6-F1A114B082BE::net9.0::Planday.Schedule.Infrastructure.Tests.Queries.GetShiftQueryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::01BFA8F5-61F8-4D85-A1B6-F1A114B082BE::net9.0::Planday.Schedule.Infrastructure.Tests.Queries.ShiftValidatorTests.CheckOverlappingShiftsAsync_NoOverlap&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::01BFA8F5-61F8-4D85-A1B6-F1A114B082BE::net9.0::Planday.Schedule.Infrastructure.Tests.Queries.ShiftValidatorTests.CheckOverlappingShiftsAsync_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::038D0219-AF68-4618-BDB7-9B1F93C964B4::net9.0::PlanDay.Schedule.Tests.UseCases.AssignEmployeeToShiftServiceTests.AssignEmployeeToShiftService_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::038D0219-AF68-4618-BDB7-9B1F93C964B4::net9.0::PlanDay.Schedule.Tests.UseCases.AssignEmployeeToShiftServiceTests.AssignEmployeeToShiftService_EmployeeDoesNotExist_Failed&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
